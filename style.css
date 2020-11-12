@@ -1,0 +1,104 @@
+header {
+    background-color: white;
+    height: 85px;
+
+}
+
+img {
+    height: 70px;
+    margin-top: 10px;
+    margin-left: 550px;
+}
+
+body {
+    background-image: url(gc-bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    font-family: sans-serif
+}
+#container{
+    height: 540px;
+    width: 500px;
+    background-color: #fff;
+    margin-top: 50px;
+    margin-left: 110px
+}
+.adams{
+    padding: 10px;
+    width: 400px;
+    margin-left: 35px;
+    height: 25px
+    
+}
+#razaq{
+    padding: 10px;
+    margin-left: 35px;
+    margin-top: 20px;
+    width: 400px;
+    height: 25px
+}
+#samad{
+    margin-left: 120px
+}
+.beatrice{
+    text-decoration: none
+}
+#far{
+    background-color:dodgerblue;
+    margin-top: 20px;
+    height: 44px;
+    width: 400px;
+    margin-left: 50px;
+    border: none;
+    color: white;
+    font-size: 18px;
+}
+#market{
+    height: 480px;
+    width: 480px;
+    background-color: dodgerblue;
+    margin-top: 80px
+}
+.one{
+    display: flex
+}
+#nafiu{
+    margin-top: 50px;
+    padding: 10px;
+    margin-left: 35px;
+    width: 400px;
+    height: 25px;
+    border: none
+}
+#short{
+    
+    background-color: dodgerblue;
+    margin-top: 20px;
+    height: 50px;
+    width: 400px;
+    margin-left: 50px;
+    border: 1px solid white;
+    color: white;
+    font-size: 20px;
+}
+#far:hover{
+    background-color: orangered;
+}
+#short:hover{
+    background-color: orangered;
+}
+footer{
+    background-color: dodgerblue;
+    margin-top: 20px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.aisha{
+    text-decoration: none;
+    color: white;
+    margin: 15px;
+    font-weight: bolder
+}
